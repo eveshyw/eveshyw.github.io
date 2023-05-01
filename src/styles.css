@@ -19,6 +19,9 @@ p{
     line-height: 1.5;
     color: #626262;
 }
+.max-container{
+    margin: 2rem 10rem;
+}
 
 /********** featured comp styles **********/
 .featured-item-container{
