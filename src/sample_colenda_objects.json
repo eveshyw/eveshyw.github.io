@@ -1,0 +1,317 @@
+{
+  "objects": [
+    {
+      "id": "81431-p3r34c",
+      "unique_identifier": [
+        "ark:/81431/p3r34c"
+      ],
+      "system_create": "2017-08-24T14:18:04Z",
+      "system_modified": "2022-08-23T18:01:40Z",
+      "thumbnail_url": "https://crgw.library.upenn.edu/ark81431p3r34c/SHA256E-s6231--9db787b3c02cabe0f8ea5dd3deeaada0cc00e0dff9025d363592f7ed1031e4f9.jpeg",
+      "image_url": "https://colenda.library.upenn.edu/phalt/iiif/2/ark81431p3r34c%2FSHA256E-s4887847--b71062c79c08628419f3edef7623ce2f3352f6de7d0917e95be37c6e825fea46.jpeg/full/1000,/0/default.jpg",
+      "bibnumber": "9948287273503681",
+      "has_images": true,
+      "item_type": [
+        "Manuscripts"
+      ],
+      "call_number": [
+        "LJS 434"
+      ],
+      "collection": [
+        "Lawrence J. Schoenberg Collection (University of Pennsylvania)"
+      ],
+      "corporate_name": [
+        "Lawrence J. Schoenberg Collection (University of Pennsylvania)"
+      ],
+      "coverage": [
+        "Islamic countries"
+      ],
+      "date": [
+        "1507"
+      ],
+      "description": [
+        "Tables used in an astrological technique for determining auspicious times for carrying out various activities. Also includes geographical illustrations and diagrams and half of a horoscope diagram for a location in northern Afghanistan dated Friday, 27 Shawwāl 912 (12 March 1507).",
+        "Lawrence J. Schoenberg & Barbara Brizdle Manuscript Initiative."
+      ],
+      "format": [
+        "7 leaves : paper, color illustrations ; 216 x 137 (145 x 109) mm bound to 220 x 144 mm"
+      ],
+      "language": [
+        "Persian"
+      ],
+      "notes": [
+        "Title supplied by cataloger.",
+        "Ms. codex.",
+        "Origin: Written in the Timurid Empire in eastern Persia, now Iran, ca. 1507 (based on date of horoscope diagram, f. 7v).",
+        "Binding: 19th-century light brown leather with faded, gold-tooled frame.",
+        "Decoration: 6 colored diagrams (eastern half of a double-page world map, f. 1r; structure and arrangement of seven climatic zones, f. 2v; geographical relationship of various cities to Mecca, f. 3r; rainbow predictions, f. 4v; setting and rising of the moon, f. 5r; half of a double-page horoscope diagram, f. 7v) and 8 decorated tables (ikhtiyārāt for the days of the solar month, f. 1v-2r; ikhtiyārāt for the lunar mansions, f. 3v-4r; ikhtiyārāt for the moon in one of the zodiacal signs, f. 5v-6r); marginal ruling in gold; significant words or numbers in red or green ink.",
+        "Layout: Textblock border-ruled in gold with vertical margins extended to upper edge of the page.",
+        "Script: Written in nastaʻlīq in black ink; pointed, with headings in naskh script.",
+        "Foliation: Paper, 7; [1-7]; modern foliation in pencil, upper left recto.",
+        "Persian."
+      ],
+      "personal_name": [
+        "Schoenberg, Lawrence J., former owner."
+      ],
+      "provenance": [
+        "Gift of Barbara Brizdle Schoenberg, 2016.",
+        "Deposit by Lawrence J. Schoenberg and Barbara Brizdle, 2011.",
+        "Sold by Sam Fogg Ltd. (London) to Lawrence J. Schoenberg, Mar. 2002."
+      ],
+      "publisher": [
+        "[Iran?], approximately A.H. 912 (1507)"
+      ],
+      "rights": [
+        "https://rightsstatements.org/page/NoC-US/1.0/?"
+      ],
+      "subject": [
+        "Islamic astrology -- Early works to 1800.",
+        "Geography.",
+        "Islamic astrology.",
+        "Tables (documents)",
+        "Manuscripts, Persian.",
+        "World maps.",
+        "Manuscripts, Renaissance.",
+        "Codices (bound manuscripts)",
+        "Almanacs.",
+        "Diagrams.",
+        "Manuscripts, 16th century."
+      ],
+      "title": [
+        "[Jadāvil-i ikhtiyārāt]."
+      ]
+    },
+    {
+      "id": "81431-p3rq2t",
+      "unique_identifier": [
+        "ark:/81431/p3rq2t"
+      ],
+      "system_create": "2017-10-18T15:42:24Z",
+      "system_modified": "2022-08-23T18:47:13Z",
+      "thumbnail_url": "https://crgw.library.upenn.edu/ark81431p3rq2t/SHA256E-s11253--697bc2d74b5a735bebb1e3e4301c19bba1a68e02c8f63893230db9bdccc8cdf5.jpeg",
+      "image_url": "https://colenda.library.upenn.edu/phalt/iiif/2/ark81431p3rq2t%2FSHA256E-s2340574--30e56e470ddfe82001e93bd31d684a13e6ea3a7ed8452243c711b5a52c1ea46e.jpeg/full/,1000/0/default.jpg",
+      "bibnumber": "9949960843503681",
+      "has_images": true,
+      "item_type": [
+        "Manuscripts"
+      ],
+      "call_number": [
+        "Ms. Coll. 764"
+      ],
+      "collection": [
+        "Samminiati Records."
+      ],
+      "coverage": [
+        "Florence (Italy) -- 17th century.",
+        "Venice (Italy) -- 17th century.",
+        "Italy -- Florence."
+      ],
+      "creator": [
+        "Alexander VII, Pope, 1599-1667."
+      ],
+      "date": [
+        "1662"
+      ],
+      "description": [
+        "Copy of a bull from Pope Alexander VII dated 9 October 1662 and addressed to the vicar of Venice, granting permission to get married to Giuliano de' Medici and Maria Eleonora de' Medici of Florence, fourth degree relatives. Pope Alexander VII's lead bull is attached to the document with a braided string."
+      ],
+      "format": [
+        "1 item (1 leaf) : parchment"
+      ],
+      "language": [
+        "Latin"
+      ],
+      "notes": [
+        "In Latin."
+      ],
+      "personal_name": [
+        "Medici, Giuliano de'.",
+        "Medici, Maria Eleonora de'.",
+        "Medici, House of."
+      ],
+      "provenance": [
+        "Sold by Renzo Rizzi (Milan)."
+      ],
+      "rights": [
+        "https://rightsstatements.org/page/NoC-US/1.0/?"
+      ],
+      "subject": [
+        "Marriage -- Italy -- Florence.",
+        "Marriage.",
+        "Notarial documents.",
+        "Legal documents.",
+        "Bulls (papal records)",
+        "Bullae (seals)",
+        "Manuscripts, European.",
+        "Manuscripts, Latin."
+      ],
+      "title": [
+        "Pope Alexander VII bull, 1662."
+      ]
+    },
+    {
+      "id": "81431-p35q8t",
+      "unique_identifier": [
+        "ark:/81431/p35q8t"
+      ],
+      "system_create": "2018-03-21T12:17:46Z",
+      "system_modified": "2021-09-23T15:05:39Z",
+      "thumbnail_url": "https://crgw.library.upenn.edu/ark81431p35q8t/SHA256E-s19834--f37c57426ed9b56dbe8e5902e03caee2739730ad5f01a64aa3acd37534677596.jpeg",
+      "image_url": "https://colenda.library.upenn.edu/phalt/iiif/2/ark81431p35q8t%2FSHA256E-s5614833--62da5abdec4521e415ec1f7b89ad5b1d0f54c9774cb2bb4a029a3e425f6b898b.jpeg/full/,1000/0/default.jpg",
+      "item_type": [
+        "Certificates"
+      ],
+      "call_number": [
+        "Arc.MS.56"
+      ],
+      "collection": [
+        "Arnold and Deanne Kaplan Collection of Early American Judaica (University of Pennsylvania)"
+      ],
+      "corporate_name": [
+        "Martin Wetzler"
+      ],
+      "date": [
+        "1864-12-25"
+      ],
+      "description": [
+        "Baptismal certificate created by Martin Wetzler, with images of angels and birds hand colored with polka dots; Allentown, PA"
+      ],
+      "format": [
+        "Certificate"
+      ],
+      "geographic_subject": [
+        "United States -- Pennsylvania -- Allentown",
+        "United States -- Pennsylvania"
+      ],
+      "language": [
+        "German",
+        "Yiddish"
+      ],
+      "personal_name": [
+        "Wetzler, Martin"
+      ],
+      "rights": [
+        "http://rightsstatements.org/page/NoC-US/1.0/?"
+      ],
+      "subject": [
+        "Certificates"
+      ],
+      "title": [
+        "Certificate; Wetzler, Martin; Martin Wetzler; Allentown, Pennsylvania, United States; 1864 December 25"
+      ]
+    },
+    {
+      "id": "81431-p36w7g",
+      "unique_identifier": [
+        "ark:/81431/p36w7g"
+      ],
+      "system_create": "2017-08-03T14:08:24Z",
+      "system_modified": "2022-08-23T17:35:41Z",
+      "thumbnail_url": "https://crgw.library.upenn.edu/ark81431p36w7g/SHA256E-s14697--2e0669f12aa1463796b69763d882ee22be673c614178f74a13ecd2ffff532b2d.jpeg",
+      "image_url": "https://colenda.library.upenn.edu/phalt/iiif/2/ark81431p36w7g%2FSHA256E-s3080109--43decc8f9a931aa093542d47738b2c17f28b17a11f98df888ba5ccc14655de9c.jpeg/full/,1000/0/default.jpg",
+      "bibnumber": "9949940393503681",
+      "has_images": true,
+      "item_type": [
+        "Manuscripts"
+      ],
+      "call_number": [
+        "Portfolio LJS 314"
+      ],
+      "collection": [
+        "Lawrence J. Schoenberg Collection (University of Pennsylvania)"
+      ],
+      "corporate_name": [
+        "East India Company.",
+        "Lawrence J. Schoenberg Collection (University of Pennsylvania)"
+      ],
+      "coverage": [
+        "Persian Gulf Region -- 17th century.",
+        "England -- 17th century.",
+        "England."
+      ],
+      "date": [
+        "1660"
+      ],
+      "description": [
+        "Request by the Governour and Company of Merchants trading into the East Indies, Persia, &c., to ʻAbbās II, Shah of Iran, for the East India Company's half of the customs duties of the port of Gombroon in the Persian Gulf, later named Bander ʻAbbās, a promised reward to the company for their earlier assistance in driving the Portuguese from the island of Hormuz.  Issued in London, 9 April 1660, the petition is written in a cursive script.  It is signed by Governor Thomas Andrew and other merchants, but some of the signatures are faded.  The first line of the text is in gold display letters, the first letter particularly large on a ground of gold penwork, followed by a second line in green ink.  Important words and initials are in green ink throughout.  The petition has a three-quarters border in gold leaf with the coat of arms of the East India Company Merchants at the top and 4 rondels containing illuminations of sailing ships.  The item is backed with newer vellum, which has a window so that an inscription in green ink on the verso is still visible:  To the high & mightie monarch SHAW ABBAS, Emperour of Persia, Media, Armenia, & other great & populous countries and dominions.",
+        "Lawrence J. Schoenberg & Barbara Brizdle Manuscript Initiative."
+      ],
+      "format": [
+        "1 item (1 l leaf) : parchment ; 570 x 478 mm"
+      ],
+      "language": [
+        "English"
+      ],
+      "personal_name": [
+        "ʻAbbās II, Shah of Iran, 1633-1668, addressee.",
+        "Schoenberg, Lawrence J., former owner."
+      ],
+      "provenance": [
+        "Sold at auction at Sotheby's, 15 July 1999, lot 31, to Lawrence J. Schoenberg.",
+        "Gift of Lawrence J. Schoenberg and Barbara Brizdle, 2011."
+      ],
+      "rights": [
+        "https://rightsstatements.org/page/NoC-US/1.0/?"
+      ],
+      "subject": [
+        "History.",
+        "Commerce.",
+        "Petitions.",
+        "Manuscripts, European.",
+        "Manuscripts, English."
+      ],
+      "title": [
+        "East India Company petition : manuscript, 1660."
+      ]
+    },
+    {
+      "id": "81431-p3z19f",
+      "unique_identifier": [
+        "ark:/81431/p3z19f"
+      ],
+      "system_create": "2018-05-03T14:17:38Z",
+      "system_modified": "2022-08-03T20:57:44Z",
+      "thumbnail_url": "https://crgw.library.upenn.edu/ark81431p3z19f/SHA256E-s14462--cf89a8f60349e6ae0eac9c342e63aebb0a95a23bf3a61ce5327b11cf50418277.jpeg",
+      "image_url": "https://colenda.library.upenn.edu/phalt/iiif/2/ark81431p3z19f%2FSHA256E-s4776866--1e31a0da61b8cb5a8c8ac89c893215c4c090d7ff8427538714b7f90ae055c7ff.jpeg/full/,1000/0/default.jpg",
+      "item_type": [
+        "Clippings"
+      ],
+      "call_number": [
+        "Arc.MS.56"
+      ],
+      "collection": [
+        "Arnold and Deanne Kaplan Collection of Early American Judaica (University of Pennsylvania)"
+      ],
+      "corporate_name": [
+        "Frank Leslie's Illustrated"
+      ],
+      "date": [
+        "1858-04-10"
+      ],
+      "description": [
+        "Clipping of a full two page article from Frank Leslie's Illustrated entitled, \"The Jewish Passover of 1858,\" by Doesticks with four prints explaining how matzos are made on Chatham St. It includes a brief explanation of passover"
+      ],
+      "format": [
+        "Clipping"
+      ],
+      "geographic_subject": [
+        "United States -- New York -- New York",
+        "United States -- New York"
+      ],
+      "language": [
+        "English"
+      ],
+      "rights": [
+        "http://rightsstatements.org/page/NoC-US/1.0/?"
+      ],
+      "subject": [
+        "Judaism -- Customs and practices",
+        "Religious communities",
+        "Clippings (information artifacts)"
+      ],
+      "title": [
+        "Periodical; Frank Leslie's Illustrated; New York, New York, United States; 1858 April 10"
+      ]
+    }
+  ]
+}
