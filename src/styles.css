@@ -199,6 +199,7 @@ p{
 .carousel-control-next,
 .carousel-control-prev {
     filter: invert(100%);
+    width: 8% !important;
 }
 .carousel-indicators li {
     position: relative;
@@ -259,7 +260,7 @@ p{
 
 @media all and (max-width: 1700px){
     .carousel-control-next, .carousel-control-prev{
-        width: 10% !important;
+        width: 4% !important;
     }
     
     .gallery-item{
